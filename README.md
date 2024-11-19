@@ -1,5 +1,5 @@
 # Virtual Environment Manager
-A batch script that automates the creation, activation, and management of Python virtual environments. It upgrades essential tools, installs dependencies, and handles errors with user-friendly notifications for smooth setup.
+A Windows batch script that automates the creation, activation, and management of Python virtual environments. It upgrades essential tools, installs dependencies, and handles errors with user-friendly notifications for smooth setup.
 
 ## Table of Contents
 1. [Overview](#overview)  
